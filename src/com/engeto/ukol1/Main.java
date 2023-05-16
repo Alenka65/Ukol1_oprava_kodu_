@@ -30,7 +30,7 @@ public class Main {
                // hodnotě navíc 0.1
         }
         System.out.println(cena);
-        //Tohle me napadlo jako reseni, pouzit BigDecimal misto double anebo floatu.
+        //Tohle me napadlo jako reseni, pouzit BigDecimal misto double anebo floatu
     }
 
    public static void ukol6() {
